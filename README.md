@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...???
-- ⚡ Fun fact: ...id that .." To me being an'Engineer' is , better than being the president of  the United States"
+- ⚡ Fun fact: ...is that .." To me being an'Engineer' is , better than being the president of  the United States"
 
 <!---
 Sayanth789/Sayanth789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

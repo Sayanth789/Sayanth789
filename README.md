@@ -1,4 +1,4 @@
-![header](https://media.giphy.com/media/Xljq8gRCMMCuA/giphy.gif)
+![header](https://pixabay.com/gifs/code-programming-computer-science-6618.gif)
 ![header](https://media.giphy.com/media/3ohs7Ys5nTFiMHxV0U/giphy.gif)
 - 👋 Hi, I’m @Sayanth  
 - 👀 I’m interested in Science 🔬 and Engineering ⚙️  
